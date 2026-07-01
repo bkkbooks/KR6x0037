@@ -1,0 +1,676 @@
+canonical_identifier: bkk:krp/KR6x0037/N/v1
+canonical_location: https://kanripo.org/bkk/KR6x0037/N/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 攝阿毘達磨義論
+  identifiers:
+    krp: KR6x0037
+    cbeta: N70n0037
+    cbeta_old_id: N70n0037
+    authorityid: CA0008301
+    json_key: N0037
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/N/N70/N70n0037.xml
+    old_id: N70n0037
+  edition:
+    short: 'N'
+assets:
+  parts:
+  - {seq: 1, filename: KR6x0037_001-N.yaml, hash: 'sha256:2c3e8b46d7c9d785475fa5f4211cbd45bd8ec156676dd3c1187f89321a623061'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6x0037_001-N.markers.yaml, hash: 'sha256:5fc59177cf2b70c9362ede1cbd92a44842157caf15971b4708b17396b51ce87c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-juan-start
+    span:
+    - body
+    - 0
+    - 18632
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一　攝心分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-2
+    span:
+    - body
+    - 103
+    - 103
+  label: 一　十二不善心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-3
+    span:
+    - body
+    - 291
+    - 291
+  label: 二　十八無因心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-4
+    span:
+    - body
+    - 525
+    - 525
+  label: 三　二十四有因心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-5
+    span:
+    - body
+    - 919
+    - 919
+  label: 四　十五色界心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-6
+    span:
+    - body
+    - 1228
+    - 1228
+  label: 五　十二無色界心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-7
+    span:
+    - body
+    - 1435
+    - 1435
+  label: 六　八出世間心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-8
+    span:
+    - body
+    - 1636
+    - 1636
+  label: 七　百二十一心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-9
+    span:
+    - body
+    - 1916
+    - 1916
+  label: 二　攝心所分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-10
+    span:
+    - body
+    - 1948
+    - 1948
+  label: 一　五十二心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-11
+    span:
+    - body
+    - 2226
+    - 2226
+  label: 二　共一切心所及雜心所相應心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-12
+    span:
+    - body
+    - 2522
+    - 2522
+  label: 三　不善心所相應心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-13
+    span:
+    - body
+    - 2723
+    - 2723
+  label: 四　淨心所相應心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-14
+    span:
+    - body
+    - 3081
+    - 3081
+  label: 五　出世間心相應心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-15
+    span:
+    - body
+    - 3250
+    - 3250
+  label: 六　色詐色界心相應心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-16
+    span:
+    - body
+    - 3442
+    - 3442
+  label: 七　欲界淨心相應心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-17
+    span:
+    - body
+    - 3751
+    - 3751
+  label: 八　不善心相應心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-18
+    span:
+    - body
+    - 4053
+    - 4053
+  label: 九　無因心相應心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-19
+    span:
+    - body
+    - 4281
+    - 4281
+  label: 三　攝雜分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-20
+    span:
+    - body
+    - 4339
+    - 4339
+  label: 一　受之攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-21
+    span:
+    - body
+    - 4522
+    - 4522
+  label: 二　因之攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-22
+    span:
+    - body
+    - 4693
+    - 4693
+  label: 三　作用之攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-23
+    span:
+    - body
+    - 5090
+    - 5090
+  label: 四　門之攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-24
+    span:
+    - body
+    - 5428
+    - 5428
+  label: 五　所緣之攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-25
+    span:
+    - body
+    - 5868
+    - 5868
+  label: 六　基之攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-26
+    span:
+    - body
+    - 6115
+    - 6115
+  label: 四　攝路分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-27
+    span:
+    - body
+    - 6167
+    - 6167
+  label: 一　六六法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-28
+    span:
+    - body
+    - 6307
+    - 6307
+  label: 二　五門作用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-29
+    span:
+    - body
+    - 6853
+    - 6853
+  label: 三　欲界之意門作用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-30
+    span:
+    - body
+    - 6989
+    - 6989
+  label: 四　上二界、出世間之禪定作用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-31
+    span:
+    - body
+    - 7283
+    - 7283
+  label: 五　彼所緣之決定
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-32
+    span:
+    - body
+    - 7577
+    - 7577
+  label: 六　速行之決定
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-33
+    span:
+    - body
+    - 7855
+    - 7855
+  label: 七　路心由人之差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-34
+    span:
+    - body
+    - 8050
+    - 8050
+  label: 八　路心由地之差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-35
+    span:
+    - body
+    - 8248
+    - 8248
+  label: 五　攝離路分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-36
+    span:
+    - body
+    - 8307
+    - 8307
+  label: 一　四地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-37
+    span:
+    - body
+    - 8577
+    - 8577
+  label: 二　四種結生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-38
+    span:
+    - body
+    - 9310
+    - 9310
+  label: 三　四業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-39
+    span:
+    - body
+    - 10200
+    - 10200
+  label: 四　四種死及結生之次第
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-40
+    span:
+    - body
+    - 10955
+    - 10955
+  label: 六　攝色分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-41
+    span:
+    - body
+    - 11006
+    - 11006
+  label: 一　色之列舉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-42
+    span:
+    - body
+    - 11265
+    - 11265
+  label: 二　色之分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-43
+    span:
+    - body
+    - 11531
+    - 11531
+  label: 三　色之等起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-44
+    span:
+    - body
+    - 11857
+    - 11857
+  label: 四　色之聚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-45
+    span:
+    - body
+    - 12209
+    - 12209
+  label: 五　轉起之次第
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-46
+    span:
+    - body
+    - 12720
+    - 12720
+  label: 六　涅槃論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-47
+    span:
+    - body
+    - 12866
+    - 12866
+  label: 七　攝集分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-48
+    span:
+    - body
+    - 12919
+    - 12919
+  label: 一　攝不善
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-49
+    span:
+    - body
+    - 13215
+    - 13215
+  label: 二　攝雜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-50
+    span:
+    - body
+    - 13539
+    - 13539
+  label: 三　攝菩提分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-51
+    span:
+    - body
+    - 13842
+    - 13842
+  label: 四　攝一切
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-52
+    span:
+    - body
+    - 14126
+    - 14126
+  label: 八　攝緣分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-53
+    span:
+    - body
+    - 14228
+    - 14228
+  label: 一　緣起法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-54
+    span:
+    - body
+    - 14585
+    - 14585
+  label: 二　發趣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-55
+    span:
+    - body
+    - 15668
+    - 15668
+  label: 三　施設
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-56
+    span:
+    - body
+    - 16120
+    - 16120
+  label: 九　攝業處分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-57
+    span:
+    - body
+    - 16243
+    - 16243
+  label: 一　四十業處
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-58
+    span:
+    - body
+    - 16403
+    - 16403
+  label: 二　六行者與四十業處之適不適
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-59
+    span:
+    - body
+    - 16553
+    - 16553
+  label: 三　三修習
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-60
+    span:
+    - body
+    - 16723
+    - 16723
+  label: 四　三相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-61
+    span:
+    - body
+    - 17467
+    - 17467
+  label: 五　七種清淨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-62
+    span:
+    - body
+    - 18016
+    - 18016
+  label: 六　三解脫門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-63
+    span:
+    - body
+    - 18252
+    - 18252
+  label: 七　人之別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0037_N_001-mulu-64
+    span:
+    - body
+    - 18407
+    - 18407
+  label: 八　定之差別
+  type: mulu
+  level: 1
+hash: sha256:a6c6dc0a6ad75a052c1e92a393f9bab186059082983b2bac29d8df83a7b73921
